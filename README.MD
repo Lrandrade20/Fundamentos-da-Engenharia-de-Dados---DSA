@@ -1,0 +1,2 @@
+# Curso de Fundamentos de Engenharia de Dados - Data Science Academy
+## Análise preditiva é a prática de extrair informações de conjuntos de dados, a fim de determinar padrões e resultados futuros. Venha aprender conosco a construir, aplicar e avaliar modelos de regressão logística, linear e de séries temporais,  bem como realizar estimativas de sobrevida com métodos atuariais e de valor de corte com Curva ROC. Tudo de forma prática e com exemplos reais no software IBM® SPSS® - Statistical Package for the Social Sciences.
